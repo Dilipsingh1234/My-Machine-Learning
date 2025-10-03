@@ -6,7 +6,7 @@ This repository contains all my practice codes while learning **Machine Learning
 I will implement algorithms from scratch and also using libraries.
 
 
-🛠 Tools Used
+Tools Used
 - Python
 - NumPy, Pandas
 - Matplotlib, Seaborn
